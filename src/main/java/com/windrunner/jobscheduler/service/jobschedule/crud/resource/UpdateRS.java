@@ -1,6 +1,5 @@
 package com.windrunner.jobscheduler.service.jobschedule.crud.resource;
 
-import com.windrunner.jobscheduler.service.ResponseResult;
 import com.windrunner.jobscheduler.resource.JobSchedule;
 import lombok.*;
 
